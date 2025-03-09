@@ -1,89 +1,18 @@
-# Hi, I'm Aryan Tiwari👋
+# Hola Amigo!
+---
+# 💫 About Me:
+I'm currently working on automating a lot of manual stuff.
 
-📍 India | 📧 [Email](mailto:tiwariaryan@duck.com) | [LinkedIn](https://www.linkedin.com/in/aryan-tiwari-snu/) | [Portfolio](#)
+
+# 💻 Tech Stack:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=im-coding-hashira&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=im-coding-hashira&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=im-coding-hashira&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=im-coding-hashira&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 👋 About Me
-I’m a recent graduate with a passion for turning raw data into actionable insights. During my internship at **BMW** as a Data Analyst, I honed my skills in data cleaning, analysis, and visualization. I’m proficient in **Python**, **SQL**, and tools like **Tableau** and **Power BI**, and I love solving real-world problems using data-driven approaches.
-
----
-
-## 🛠️ Skills
-
-### **Programming & Data Manipulation**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-- **Python Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
-- **SQL:** Advanced querying (joins, subqueries, window functions, CTEs), data extraction, and manipulation.
-- **Data Cleaning:** Handling missing data, outlier detection, normalization, and transformation.
-
----
-
-### **Data Visualization & Reporting**
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-- **Tools:** Tableau, Power BI, Excel.
-- **Use Cases:** Creating interactive dashboards, business intelligence reporting, and data storytelling.
-
----
-
-### **Statistics & Data Analysis**
-📊 **Descriptive Statistics:** Mean, median, mode, variance, standard deviation.  
-📈 **Inferential Statistics:** Hypothesis testing, p-values, confidence intervals.  
-🎲 **Probability:** Bayes’ Theorem, probability distributions.
-
-- **Techniques:** Exploratory Data Analysis (EDA), trend analysis, pattern recognition, A/B testing.
-
----
-
-### **Data Pipeline & Automation**
-![Alteryx](https://img.shields.io/badge/Alteryx-00A3E0?style=for-the-badge&logo=alteryx&logoColor=white)
-
-- **ETL Tools:** Alteryx (data pipeline creation and automation).
-- **Use Cases:** Building and automating data pipelines for efficient data processing.
-
----
-
-### **Version Control**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-- **Tools:** Git, GitHub.
-- **Use Cases:** Collaborative coding, version control, and project management.
-
----
-
-### **Communication & Storytelling**
-- Translating data insights into actionable business recommendations.
-- Creating clear and concise reports and presentations.
-
----
-
-## 📚 Certifications
-- **Google Data Analytics Professional Certificate** (Coursera).
-- **Tableau Desktop Specialist Certification**.
-- **Microsoft Power BI Certification**.
-
----
-
-## 🌟 Why Hire Me?
-- **Strong Foundation:** Proficient in Python, SQL, and data visualization tools.
-- **Problem Solver:** Experienced in cleaning, analyzing, and visualizing complex datasets.
-- **Effective Communicator:** Skilled at translating data insights into actionable business recommendations.
-- **Continuous Learner:** Always eager to learn new tools and techniques to stay ahead in the field.
-
----
-
-## 📬 Let's Connect!
-Feel free to reach out to me for collaboration or job opportunities. You can contact me via:
-- [LinkedIn](https://www.linkedin.com/in/aryan-tiwari-snu/)
-- [Email](mailto:tiwariaryan@duck.com)
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
